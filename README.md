@@ -268,4 +268,4 @@ This repository serves as the official landing page for Arc Browser. The softwar
 **Get the most recent version of Arc Browser today!**
 
 ---
-**Last updated:** 2026-10-04 08:56:21 UTC
+**Last updated:** 2026-10-04 14:31:49 UTC
